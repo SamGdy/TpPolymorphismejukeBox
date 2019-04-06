@@ -8,7 +8,7 @@ Les outils mis en oeuvre :
 
 On travail sur des classes issues de "Media"
 
-![Capture.png](
+![Capture.png](https://github.com/SamGdy/TpPolymorphismejukeBox/blob/master/Images/DiagrammeClasseJukeBox.JPG)
 
 la methode "Afficher" de la classe Media est en virtual :
 
